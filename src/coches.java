@@ -23,10 +23,11 @@ public class coches {
         ArrayList<Propietario> propiList= new ArrayList();
         Propietario propiOb1=null;
         int opc;
+        int sliudghf;
         do {
             System.out.println("1. Alta datos del coche");
             System.out.println("2. Ver datos de todos los coches");
-            System.out.println("3. Ver datos de coche en concreto");
+            System.out.println("3. Ver datfdghftdghos de coche en concreto");
             System.out.println("4. Introduce matricula para buscar coche");
             System.out.println("5. Alta datos del propietario");
             System.out.println("6. Ver datos de todos los propietarios");
