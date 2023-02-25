@@ -24,7 +24,7 @@ public class coches {
         Propietario propiOb1=null;
         int opc;
         do {
-            System.out.println("1. Alta datos del coche");
+            System.out.println("1. Alta datos dBLABNLABLABLABLAel coche");
             System.out.println("2. Ver datos de todos los coches");
             System.out.println("3. Ver datos de coche en concreto");
             System.out.println("4. Introduce matricula para buscar coche");
