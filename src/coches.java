@@ -23,7 +23,9 @@ public class coches {
         ArrayList<Propietario> propiList= new ArrayList();
         Propietario propiOb1=null;
         int opc;
+
         int ksudhfg;
+        int sliudghf;
         do {
             System.out.println("1. Alta datos dBLABNLABLABLABLAel coche");
             System.out.println("2. Ver datos de todksujdhfgos los coches");
